@@ -1,0 +1,39 @@
+{
+	id: "4a7ddd82-be6c-4ac7-bcf8-bbc292d902da"
+	type: "party"
+	owner: "0cb582ea-ff33-3194-b9ea-c98c18b6458b"
+	ranks: {
+		0cb582ea-ff33-3194-b9ea-c98c18b6458b: "owner"
+		d41fc604-5d23-35f7-a664-b3595e7aa405: "member"
+		49847089-3df8-351a-a6b2-7ee8b8c03edb: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "MSR"
+		"ftbteams:description": "gabo puta"
+		"ftbteams:color": "#59DEFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1783882012951L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Thepollo10\"}]}" }
+		{ from: "0cb582ea-ff33-3194-b9ea-c98c18b6458b", date: 1783882012956L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"32gaboo\"}]}" }
+		{ from: "0cb582ea-ff33-3194-b9ea-c98c18b6458b", date: 1783882012956L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Thunderr\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1783882016098L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Thunderr\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1783882016747L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"32gaboo\"}]}" }
+		{ from: "0cb582ea-ff33-3194-b9ea-c98c18b6458b", date: 1783892633304L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Thunderr\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info MSR#4a7ddd82\"},\"text\":\"MSR\"}]}" }
+		{ from: "0cb582ea-ff33-3194-b9ea-c98c18b6458b", date: 1783894172016L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Thunderr\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1783894174165L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Thunderr\"}]}" }
+	]
+	extra: { }
+}
